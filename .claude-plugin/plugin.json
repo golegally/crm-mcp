@@ -1,0 +1,16 @@
+{
+  "name": "golegally-crm",
+  "displayName": "GoLegally CRM",
+  "version": "1.0.6",
+  "description": "Contacts, companies, deals, tasks, notes and conversations in GoLegally CRM.",
+  "author": {
+    "name": "Vadavision Private Limited",
+    "url": "https://golegally.com"
+  },
+  "homepage": "https://golegally.com",
+  "supportUrl": "https://golegally.com/contact",
+  "privacyPolicyUrl": "https://golegally.com/privacy",
+  "termsOfServiceUrl": "https://golegally.com/terms",
+  "license": "MIT",
+  "icon": "assets/logo.png"
+}

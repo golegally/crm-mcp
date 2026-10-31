@@ -1,0 +1,16 @@
+{
+  "name": "golegally-crm",
+  "owner": {
+    "name": "Vadavision Private Limited"
+  },
+  "metadata": {
+    "description": "Contacts, companies, deals, tasks, notes and conversations in GoLegally CRM."
+  },
+  "plugins": [
+    {
+      "name": "golegally-crm",
+      "source": "./",
+      "description": "Contacts, companies, deals, tasks, notes and conversations in GoLegally CRM."
+    }
+  ]
+}
