@@ -48,7 +48,7 @@ This package connects your AI assistant to one hosted MCP server at https://gole
 - **crm-messagetemplates**: MessageTemplates: Message templates download, Message templates list, Message templates create, Message templates update
 - **crm-notes**: Notes: List notes by filter, Create a note, List notes for a contact, Get note by ID
 - **crm-orders**: Orders: List orders, Record an order, Get an order, Attach an order to a company
-- **crm-payment-links**: Payment links: List payment links, newest first, Make a payment link and send it, What can be sold, read from the billing service now, What the send dialog needs
+- **crm-payment-links**: Payment links: List payment links, newest first, What can be sold, read from the billing service now, What the send dialog needs, The billing service's total for a sale
 - **crm-pipelines**: Pipelines: List all active pipelines, Create a pipeline with optional stages, Get pipeline with stages, Edit pipeline metadata
 - **crm-properties**: Properties: List property definitions by object type, Create a property definition, List property groups by object type, Create a property group
 - **crm-segments**: Segments: Lead score rules, Add a score rule, Change a score rule, Remove a score rule
