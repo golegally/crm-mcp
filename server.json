@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.golegally/crm-mcp",
+  "title": "GoLegally CRM",
+  "description": "Contacts, companies, deals, tasks, notes and conversations in GoLegally CRM.",
+  "repository": {
+    "url": "https://github.com/golegally/crm-mcp",
+    "source": "github"
+  },
+  "version": "1.0.6",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://golegally-crm.mcp.pretuned.ai/mcp"
+    }
+  ]
+}
