@@ -1,0 +1,1 @@
+cursor://anysphere.cursor-deeplink/mcp/install?name=golegally-crm&config=eyJ1cmwiOiJodHRwczovL2dvbGVnYWxseS1jcm0ubWNwLnByZXR1bmVkLmFpL21jcCJ9
